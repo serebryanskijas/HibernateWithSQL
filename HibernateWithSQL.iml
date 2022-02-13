@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="hibernate.cfg.xml" value="c16af17b-1618-4c8f-8e8e-bfeb2a588ff9" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -7,6 +18,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.ibm.icu:icu4j:70.1" level="project" />
+    <orderEntry type="library" name="org.xerial:sqlite-jdbc:3.36.0" level="project" />
+    <orderEntry type="library" name="com.opencsv:opencsv:5.5.1" level="project" />
+    <orderEntry type="library" name="org.glassfish.jaxb:jaxb-jxc:2.3.2" level="project" />
+    <orderEntry type="library" name="org.springframework.boot:spring-boot:1.1.1.RELEASE" level="project" />
+    <orderEntry type="library" name="com.github.gwenn:sqlite-dialect:0.1.2" level="project" />
+    <orderEntry type="library" name="com.enigmabridge:hibernate4-sqlite-dialect:0.1.2" level="project" />
   </component>
 </module>
-

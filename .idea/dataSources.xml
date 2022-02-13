@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Users" uuid="c16af17b-1618-4c8f-8e8e-bfeb2a588ff9">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\гк\IdeaProjects\HibernateWithSQL\src\DataBase\Users.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
